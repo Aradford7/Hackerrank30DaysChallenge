@@ -36,7 +36,7 @@
             var firstLine = "Hello, World.";
             //Write the second line of output that prints the contents of 'inputString' here. 
             console.log(firstLine + '\n' + inputString)
-        }
+        };
 
     //Code explained
         //console.log = print, object firstLine =  HelloWorld just need to call the variable + /n is new line + inputString obj
